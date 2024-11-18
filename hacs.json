@@ -1,7 +1,6 @@
 {
     "name": "Mail Server Checker",
     "content_in_root": false,
-    "domain": "mail_server_checker",
     "homeassistant": "2023.0.0",
     "render_readme": true,
     "zip_release": false,
