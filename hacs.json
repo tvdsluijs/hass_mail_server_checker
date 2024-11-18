@@ -4,5 +4,6 @@
     "homeassistant": "2023.0.0",
     "render_readme": true,
     "zip_release": false,
-    "codeowners": ["@tvdsluijs"]
+    "codeowners": ["@tvdsluijs"],
+    "icon": "custom_components/email_checker/icon.png"
 }

@@ -1,3 +1,4 @@
+![Email Server Checker](custom_components/email_checker/banner.png)
 # Email Server Checker
 
 Monitor the status of your IMAP and SMTP email servers directly within Home Assistant.
