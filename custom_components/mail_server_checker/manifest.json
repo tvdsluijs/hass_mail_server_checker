@@ -1,0 +1,9 @@
+{
+    "domain": "mail_server_checker",
+    "name": "Mail Server Checker",
+    "version": "1.0.0",
+    "issue_tracker": "https://github.com/tvdsluijs/hass_mail_server_checker/issues",
+    "documentation": "https://github.com/tvdsluijs/hass_mail_server_checker",
+    "integration_type": "hub",
+    "codeowners": ["@tvdsluijs"]
+}
