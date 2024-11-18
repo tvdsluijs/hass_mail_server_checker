@@ -1,0 +1,9 @@
+{
+    "domain": "mail_server_checker",
+    "name": "Mail Server Checker",
+    "version": "1.0.0",
+    "documentation": "https://github.com/your-repo/email_checker",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": ["@tvdsluijs"]
+}
